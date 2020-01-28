@@ -20,3 +20,7 @@ In project directory, terminal 2
 $ npm install
 $ truffle test
 ```
+
+
+## Youtube
+- [Lottery Video Lecture](https://www.youtube.com/watch?v=Ud3_OrxNPDg&list=PLlYCl1UOH8dheHS4vHOpPoHwq4Qi0R7WM)
